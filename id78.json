@@ -15,13 +15,13 @@
 "device_id": "5f4ab16b42176c57",
 "key": "0796952312",
 "expirydate": "13-08-2045",
-"Allowoffline": false
+"Allowoffline": true
 },
 {
 "device_id": "bdfd35fc5a246770",
 "key": "0796952312",
 "expirydate": "13-08-2045",
-"Allowoffline": false
+"Allowoffline": true
 },
 {
 "device_id": "1a51fcf85c61929c",
