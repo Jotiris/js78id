@@ -2,31 +2,31 @@
 {
 "device_id": "6bcbcfe987128bd0",
 "key": "0796952312",
-"expirydate": "31-12-2025",
+"expirydate": "31-12-2045",
 "Allowoffline": true
 },
   {
 "device_id": "4f7dbf2a06f36ab7",
 "key": "0796952312",
-"expirydate": "13-08-2029",
+"expirydate": "13-08-2045",
 "Allowoffline": true
 },
   {
 "device_id": "5f4ab16b42176c57",
 "key": "0796952312",
-"expirydate": "13-08-2029",
+"expirydate": "13-08-2045",
 "Allowoffline": false
 },
 {
 "device_id": "bdfd35fc5a246770",
 "key": "0796952312",
-"expirydate": "13-08-2029",
+"expirydate": "13-08-2045",
 "Allowoffline": false
 },
 {
 "device_id": "1a51fcf85c61929c",
 "key": "0796952312",
-"expirydate": "13-08-2029",
+"expirydate": "13-08-2045",
 "Allowoffline": false
 },
 ]
